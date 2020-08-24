@@ -1,4 +1,4 @@
-# Beverages App UI Design
+# Navigation Drawer Design Templates
 Implementação desse [layout](https://dribbble.com/shots/13988444-React-UI-kit-Navigation-drawer-design-templates) do Dribbble com SwiftUI.
 
 ## Screenshots
